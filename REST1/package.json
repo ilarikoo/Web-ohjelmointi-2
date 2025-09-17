@@ -1,0 +1,17 @@
+{
+  "name": "t1",
+  "version": "1.0.0",
+  "description": "Web-ohjelmointi 2, syksy 2025, tehtävä 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ilari Kujala",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3"
+  }
+}
