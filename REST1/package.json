@@ -4,12 +4,15 @@
   "description": "Web-ohjelmointi 2, syksy 2025, tehtävä 1",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
   },
   "author": "Ilari Kujala",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "react-router-dom": "^7.9.3",
+    "vite": "^7.1.9"
   },
   "devDependencies": {
     "@types/express": "^5.0.3"

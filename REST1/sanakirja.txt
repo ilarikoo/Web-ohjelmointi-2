@@ -1,2 +1,6 @@
 auto car
 talo house
+kala fish
+kissa cat
+ankka duck
+kana chicken
