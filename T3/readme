@@ -1,0 +1,7 @@
+luonti.sql sisältää kyselyt tietokannan luontiin ja populointiin.
+Luo urheilija_serveriin .env, jossa on:
+DB_HOST = tietokannan host
+DB_USER = käyttäjänimi
+DB_PASSWORD = käyttäjän salasana
+
+(kayttaja.sql sisältää kyselyn esimerkkikäyttäjän luomiseksi.)
