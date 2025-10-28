@@ -1,0 +1,20 @@
+{
+  "name": "urheilja_server",
+  "version": "1.0.0",
+  "description": "Urheilijasovelluksen serveri",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "Ilari Kujala",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mysql2": "^3.15.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
